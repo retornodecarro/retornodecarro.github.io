@@ -3,126 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://retornodecarro.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://retornodecarro.github.io/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://retornodecarro.github.io/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://retornodecarro.github.io/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/author/</loc>
+    <loc>/author/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://retornodecarro.github.io/en/author/"
+                href="/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://retornodecarro.github.io/de/author/"
+                href="/de/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://retornodecarro.github.io/author/"
+                href="/author/"
                 />
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://retornodecarro.github.io/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://retornodecarro.github.io/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://retornodecarro.github.io/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/posts/hola_mundo/</loc>
+    <loc>/posts/hola_mundo/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/author/krecik/</loc>
-    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://retornodecarro.github.io/posts/</loc>
+    <loc>/author/krecik/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/tags/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://retornodecarro.github.io/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://retornodecarro.github.io/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://retornodecarro.github.io/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/categories/blog/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/tags/holamundo/</loc>
+    <loc>/tags/holamundo/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://retornodecarro.github.io/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2019-05-11T10:27:57+02:00</lastmod>
     <priority>0</priority>
   </url>

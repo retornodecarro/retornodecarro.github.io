@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on 0x0d</title>
-    <link>https://retornodecarro.github.io/categories/blog/</link>
-    <description>Recent content in blog on 0x0d</description>
+    <title>blog on 0x0dd</title>
+    <link>/categories/blog/</link>
+    <description>Recent content in blog on 0x0dd</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 11 May 2019 10:27:57 +0200</lastBuildDate>
     
-	<atom:link href="https://retornodecarro.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hola_mundo</title>
-      <link>https://retornodecarro.github.io/posts/hola_mundo/</link>
+      <link>/posts/hola_mundo/</link>
       <pubDate>Sat, 11 May 2019 10:27:57 +0200</pubDate>
       
-      <guid>https://retornodecarro.github.io/posts/hola_mundo/</guid>
+      <guid>/posts/hola_mundo/</guid>
       <description>Este es el primer post de mi blog. Hay muchos post iguales, pero sólo este es el mío.</description>
     </item>
     

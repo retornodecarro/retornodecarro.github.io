@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 0x0d</title>
-    <link>https://retornodecarro.github.io/tags/</link>
-    <description>Recent content in Tags on 0x0d</description>
+    <title>Tags on 0x0dd</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 0x0dd</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 11 May 2019 10:27:57 +0200</lastBuildDate>
     
-	<atom:link href="https://retornodecarro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>https://retornodecarro.github.io/tags/blog/</link>
+      <link>/tags/blog/</link>
       <pubDate>Sat, 11 May 2019 10:27:57 +0200</pubDate>
       
-      <guid>https://retornodecarro.github.io/tags/blog/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>holamundo</title>
-      <link>https://retornodecarro.github.io/tags/holamundo/</link>
+      <link>/tags/holamundo/</link>
       <pubDate>Sat, 11 May 2019 10:27:57 +0200</pubDate>
       
-      <guid>https://retornodecarro.github.io/tags/holamundo/</guid>
+      <guid>/tags/holamundo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://retornodecarro.github.io/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Sat, 11 May 2019 10:27:57 +0200</pubDate>
       
-      <guid>https://retornodecarro.github.io/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
