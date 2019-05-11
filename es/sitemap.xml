@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://0x0d.cc/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0x0d.cc/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://0x0d.cc/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://0x0d.cc/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/author/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0x0d.cc/en/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://0x0d.cc/de/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://0x0d.cc/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/categories/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0x0d.cc/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://0x0d.cc/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://0x0d.cc/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/posts/hola_mundo/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/author/krecik/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/posts/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/tags/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0x0d.cc/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://0x0d.cc/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://0x0d.cc/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/categories/blog/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/tags/blog/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/tags/holamundo/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0x0d.cc/tags/hugo/</loc>
+    <lastmod>2019-05-11T10:27:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

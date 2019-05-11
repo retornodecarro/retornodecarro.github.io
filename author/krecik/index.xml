@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krecik on 0x0d</title>
+    <link>https://0x0d.cc/author/krecik/</link>
+    <description>Recent content in Krecik on 0x0d</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 May 2019 10:27:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://0x0d.cc/author/krecik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hola_mundo</title>
+      <link>https://0x0d.cc/posts/hola_mundo/</link>
+      <pubDate>Sat, 11 May 2019 10:27:57 +0200</pubDate>
+      
+      <guid>https://0x0d.cc/posts/hola_mundo/</guid>
+      <description>Este es el primer post de mi blog. Hay muchos post iguales, pero sólo este es el mío.</description>
+    </item>
+    
+  </channel>
+</rss>
