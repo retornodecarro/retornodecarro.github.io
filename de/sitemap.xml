@@ -3,82 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/de/author/</loc>
+    <loc>https://retornodecarro.github.io/de/author/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/author/"
+                href="https://retornodecarro.github.io/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/"
+                href="https://retornodecarro.github.io/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/author/"
+                href="https://retornodecarro.github.io/de/author/"
                 />
   </url>
   
   <url>
-    <loc>/de/categories/</loc>
+    <loc>https://retornodecarro.github.io/de/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/"
+                href="https://retornodecarro.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://retornodecarro.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="https://retornodecarro.github.io/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>/de/</loc>
+    <loc>https://retornodecarro.github.io/de/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/"
+                href="https://retornodecarro.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://retornodecarro.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="https://retornodecarro.github.io/de/"
                 />
   </url>
   
   <url>
-    <loc>/de/tags/</loc>
+    <loc>https://retornodecarro.github.io/de/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/"
+                href="https://retornodecarro.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://retornodecarro.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="https://retornodecarro.github.io/de/tags/"
                 />
   </url>
   
